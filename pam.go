@@ -1,6 +1,6 @@
 // Package pam provides a wrapper for the application layer of the
 // Pluggable Authentication Modules library.
-package pam
+package gopam
 
 import (
     //#include "gopam.h"
